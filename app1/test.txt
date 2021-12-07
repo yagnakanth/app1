@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 first line 
 second line
 
 third line
+=======
+>>>>>>> parent of 3df593d (file has been modified)
